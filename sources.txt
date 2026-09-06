@@ -1,9 +1,0 @@
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\Booking.java
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\BookingStatus.java
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\Css.java
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\HotelService.java
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\HttpUtils.java
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\Room.java
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\RoomType.java
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\Server.java
-c:\Users\User\Desktop\hotel-booking-system\hotelbooking\src\com\hotel\View.java
